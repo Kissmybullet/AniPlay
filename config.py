@@ -4,6 +4,6 @@
 # TOKEN = '4213543775:AsfjgfgdsdhfsdjhgjhfgsjgY'
 
 
-API_ID = ''
-API_HASH = ''
-TOKEN = ''
+API_ID = '27696264'
+API_HASH = 'c92b057da07e466be68df67314040bc3'
+TOKEN = '6320898200:AAGITaQH8uLZTbr-jIF2rSORFPqXOGJ-J-o'
